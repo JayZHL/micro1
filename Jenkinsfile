@@ -3,7 +3,7 @@ pipeline {
   stages{
    stage('Hello'){
     steps{
-     echo "hello again from Jenkinsfile"
+     echo "hello againx3 from Jenkinsfile"
     }
    }
    stage('for the fix branch'){
